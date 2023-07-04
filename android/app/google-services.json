@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032082107417",
+    "project_id": "ours1-bdd36",
+    "storage_bucket": "ours1-bdd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032082107417:android:862b1bd5827a5895d94e88",
+        "android_client_info": {
+          "package_name": "com.willi.ours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032082107417-6tfm5aagm4mhoned4d396r38llinmsmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqANsSIVzVCb-dWcClbuM6ubo_lZ9w34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032082107417-14a5gef1fm0akc57dupbe7q9n86kg2r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
